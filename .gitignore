@@ -1,0 +1,15 @@
+# Node Dependencies (Backend)
+node_modules/
+
+# Environment Variables & Private Database Keys 
+.env
+.env.local
+backend/.env
+
+# Production Builds
+dist/
+build/
+
+# System / Editor files
+.DS_Store
+.vscode/
